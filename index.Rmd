@@ -1,0 +1,14 @@
+---
+title: "Does this work???"
+---
+
+This is the first test
+
+
+This is the second test.
+
+<img src="pictures/forest.CR2" style="width:50%">
+
+YAY!
+
+<img src="pictures/forest2.CR2" style="width:50%">
