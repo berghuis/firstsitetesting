@@ -2,7 +2,7 @@ name: "test_website"
 navbar:
   title: "First project website"
   left:
-    - text: "Home"
+    - text: "Landing"
       href: index.html
     - text: "About"
       href: about.html
